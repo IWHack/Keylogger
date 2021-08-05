@@ -1,8 +1,7 @@
 #Keylogger.py
 #NOTE: This code is for educational purposes only. 
 #Any material within this code is intended for educational and only used for ethical purposes.
-#Author: Grant Collins
-#Edited code by Ismail Wafi Khoerul Abidin
+#Edited code by Ismail Wafi Khoerul Abidin.
 
 import socket
 import platform
