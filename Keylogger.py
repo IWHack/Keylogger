@@ -252,3 +252,5 @@ delete_file.grid(row=3, column=3, columnspan=1, sticky=W+E)
 root.config(menu=menubar)
 root.protocol("WM_DELETE_WINDOW", on_closing)
 root.mainloop()
+
+#Stay Healthy
